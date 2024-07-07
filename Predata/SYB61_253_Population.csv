@@ -1,0 +1,261 @@
+Country,Year,Series,Capital City,Value
+Argentina,2005,Capital city population (thousands),Buenos Aires,"13,330"
+Argentina,2010,Capital city population (thousands),Buenos Aires,"14,246"
+Argentina,2015,Capital city population (thousands),Buenos Aires,"14,706"
+Argentina,2018,Capital city population (thousands),Buenos Aires,"14,967"
+Brazil,2005,Capital city population (thousands),Brasilia,"3,301"
+Brazil,2010,Capital city population (thousands),Brasilia,"3,710"
+Brazil,2015,Capital city population (thousands),Brasilia,"4,168"
+Brazil,2018,Capital city population (thousands),Brasilia,"4,470"
+Canada,2005,Capital city population (thousands),Ottawa,"1,122"
+Canada,2010,Capital city population (thousands),Ottawa,"1,218"
+Canada,2015,Capital city population (thousands),Ottawa,"1,308"
+Canada,2018,Capital city population (thousands),Ottawa,"1,363"
+Germany,2005,Capital city population (thousands),Berlin,"3,391"
+Germany,2010,Capital city population (thousands),Berlin,"3,450"
+Germany,2015,Capital city population (thousands),Berlin,"3,514"
+Germany,2018,Capital city population (thousands),Berlin,"3,552"
+India,2005,Capital city population (thousands),New Delhi,"18,691"
+India,2010,Capital city population (thousands),New Delhi,"21,988"
+India,2015,Capital city population (thousands),New Delhi,"25,866"
+India,2018,Capital city population (thousands),New Delhi,"28,514"
+Japan,2005,Capital city population (thousands),Tokyo,"35,622"
+Japan,2010,Capital city population (thousands),Tokyo,"36,860"
+Japan,2015,Capital city population (thousands),Tokyo,"37,256"
+Japan,2018,Capital city population (thousands),Tokyo,"37,468"
+Mexico,2005,Capital city population (thousands),Mexico City,"19,276"
+Mexico,2010,Capital city population (thousands),Mexico City,"20,137"
+Mexico,2015,Capital city population (thousands),Mexico City,"21,340"
+Mexico,2018,Capital city population (thousands),Mexico City,"21,581"
+South Africa,2005,Capital city population (thousands),Pretoria,"1,334"
+South Africa,2010,Capital city population (thousands),Pretoria,"1,666"
+South Africa,2015,Capital city population (thousands),Pretoria,"2,081"
+South Africa,2018,Capital city population (thousands),Pretoria,"2,378"
+United Kingdom,2005,Capital city population (thousands),London,"7,501"
+United Kingdom,2010,Capital city population (thousands),London,"8,044"
+United Kingdom,2015,Capital city population (thousands),London,"8,661"
+United Kingdom,2018,Capital city population (thousands),London,"9,046"
+United States of America,2005,Capital city population (thousands),"Washington, D.C.","4,264"
+United States of America,2010,Capital city population (thousands),"Washington, D.C.","4,604"
+United States of America,2015,Capital city population (thousands),"Washington, D.C.","4,972"
+United States of America,2018,Capital city population (thousands),"Washington, D.C.","5,207"
+Argentina,2010,Population aged 0 to 14 years old (percentage),,25.6
+Argentina,2015,Population aged 0 to 14 years old (percentage),,24.7
+Argentina,2020,Population aged 0 to 14 years old (percentage),,23.7
+Argentina,2022,Population aged 0 to 14 years old (percentage),,23.1
+Brazil,2010,Population aged 0 to 14 years old (percentage),,24.8
+Brazil,2015,Population aged 0 to 14 years old (percentage),,22.5
+Brazil,2020,Population aged 0 to 14 years old (percentage),,20.8
+Brazil,2022,Population aged 0 to 14 years old (percentage),,20.3
+Canada,2010,Population aged 0 to 14 years old (percentage),,16.6
+Canada,2015,Population aged 0 to 14 years old (percentage),,16.2
+Canada,2020,Population aged 0 to 14 years old (percentage),,15.9
+Canada,2022,Population aged 0 to 14 years old (percentage),,15.6
+Germany,2010,Population aged 0 to 14 years old (percentage),,13.6
+Germany,2015,Population aged 0 to 14 years old (percentage),,13.2
+Germany,2020,Population aged 0 to 14 years old (percentage),,13.8
+Germany,2022,Population aged 0 to 14 years old (percentage),,14
+India,2010,Population aged 0 to 14 years old (percentage),,31
+India,2015,Population aged 0 to 14 years old (percentage),,28.6
+India,2020,Population aged 0 to 14 years old (percentage),,26.1
+India,2022,Population aged 0 to 14 years old (percentage),,25.3
+Japan,2010,Population aged 0 to 14 years old (percentage),,13.2
+Japan,2015,Population aged 0 to 14 years old (percentage),,12.7
+Japan,2020,Population aged 0 to 14 years old (percentage),,11.9
+Japan,2022,Population aged 0 to 14 years old (percentage),,11.6
+Mexico,2010,Population aged 0 to 14 years old (percentage),,29.9
+Mexico,2015,Population aged 0 to 14 years old (percentage),,27.6
+Mexico,2020,Population aged 0 to 14 years old (percentage),,25.3
+Mexico,2022,Population aged 0 to 14 years old (percentage),,24.5
+South Africa,2010,Population aged 0 to 14 years old (percentage),,28.7
+South Africa,2015,Population aged 0 to 14 years old (percentage),,28.3
+South Africa,2020,Population aged 0 to 14 years old (percentage),,28.7
+South Africa,2022,Population aged 0 to 14 years old (percentage),,28.6
+United Kingdom,2010,Population aged 0 to 14 years old (percentage),,17.6
+United Kingdom,2015,Population aged 0 to 14 years old (percentage),,17.7
+United Kingdom,2020,Population aged 0 to 14 years old (percentage),,17.8
+United Kingdom,2022,Population aged 0 to 14 years old (percentage),,17.5
+United States of America,2010,Population aged 0 to 14 years old (percentage),,19.9
+United States of America,2015,Population aged 0 to 14 years old (percentage),,19.3
+United States of America,2020,Population aged 0 to 14 years old (percentage),,18.5
+United States of America,2022,Population aged 0 to 14 years old (percentage),,18
+Argentina,2010,Population aged 60+ years old (percentage),,14.6
+Argentina,2015,Population aged 60+ years old (percentage),,15.3
+Argentina,2020,Population aged 60+ years old (percentage),,16
+Argentina,2022,Population aged 60+ years old (percentage),,16.2
+Brazil,2010,Population aged 60+ years old (percentage),,10.3
+Brazil,2015,Population aged 60+ years old (percentage),,11.9
+Brazil,2020,Population aged 60+ years old (percentage),,13.8
+Brazil,2022,Population aged 60+ years old (percentage),,14.6
+Canada,2010,Population aged 60+ years old (percentage),,19.9
+Canada,2015,Population aged 60+ years old (percentage),,22.3
+Canada,2020,Population aged 60+ years old (percentage),,24.8
+Canada,2022,Population aged 60+ years old (percentage),,25.9
+Germany,2010,Population aged 60+ years old (percentage),,25.9
+Germany,2015,Population aged 60+ years old (percentage),,27.3
+Germany,2020,Population aged 60+ years old (percentage),,28.8
+Germany,2022,Population aged 60+ years old (percentage),,29.7
+India,2010,Population aged 60+ years old (percentage),,7.8
+India,2015,Population aged 60+ years old (percentage),,8.9
+India,2020,Population aged 60+ years old (percentage),,10.2
+India,2022,Population aged 60+ years old (percentage),,10.5
+Japan,2010,Population aged 60+ years old (percentage),,31.5
+Japan,2015,Population aged 60+ years old (percentage),,33.9
+Japan,2020,Population aged 60+ years old (percentage),,35.4
+Japan,2022,Population aged 60+ years old (percentage),,35.8
+Mexico,2010,Population aged 60+ years old (percentage),,8.9
+Mexico,2015,Population aged 60+ years old (percentage),,10.2
+Mexico,2020,Population aged 60+ years old (percentage),,11.7
+Mexico,2022,Population aged 60+ years old (percentage),,12.2
+South Africa,2010,Population aged 60+ years old (percentage),,7.6
+South Africa,2015,Population aged 60+ years old (percentage),,8.1
+South Africa,2020,Population aged 60+ years old (percentage),,8.7
+South Africa,2022,Population aged 60+ years old (percentage),,8.7
+United Kingdom,2010,Population aged 60+ years old (percentage),,22.3
+United Kingdom,2015,Population aged 60+ years old (percentage),,23.2
+United Kingdom,2020,Population aged 60+ years old (percentage),,24.5
+United Kingdom,2022,Population aged 60+ years old (percentage),,25.2
+United States of America,2010,Population aged 60+ years old (percentage),,18.3
+United States of America,2015,Population aged 60+ years old (percentage),,20.3
+United States of America,2020,Population aged 60+ years old (percentage),,22.5
+United States of America,2022,Population aged 60+ years old (percentage),,23.4
+Argentina,2010,Population density,,14.7
+Argentina,2015,Population density,,15.5
+Argentina,2020,Population density,,16.1
+Argentina,2022,Population density,,16.3
+Brazil,2010,Population density,,23.5
+Brazil,2015,Population density,,24.6
+Brazil,2020,Population density,,25.5
+Brazil,2022,Population density,,25.8
+Canada,2010,Population density,,3.7
+Canada,2015,Population density,,3.9
+Canada,2020,Population density,,4.2
+Canada,2022,Population density,,4.2
+Germany,2010,Population density,,233.3
+Germany,2015,Population density,,235.5
+Germany,2020,Population density,,239.1
+Germany,2022,Population density,,239.2
+India,2010,Population density,,417.3
+India,2015,Population density,,444.9
+India,2020,Population density,,469.7
+India,2022,Population density,,476.7
+Japan,2010,Population density,,340
+Japan,2015,Population density,,337.7
+Japan,2020,Population density,,332.4
+Japan,2022,Population density,,328.9
+Mexico,2010,Population density,,57.4
+Mexico,2015,Population density,,61.3
+Mexico,2020,Population density,,64.3
+Mexico,2022,Population density,,65.1
+South Africa,2010,Population density,,42.4
+South Africa,2015,Population density,,45.8
+South Africa,2020,Population density,,48.2
+South Africa,2022,Population density,,49.1
+United Kingdom,2010,Population density,,258.5
+United Kingdom,2015,Population density,,268.7
+United Kingdom,2020,Population density,,276.3
+United Kingdom,2022,Population density,,278.1
+United States of America,2010,Population density,,34
+United States of America,2015,Population density,,35.5
+United States of America,2020,Population density,,36.7
+United States of America,2022,Population density,,37
+Argentina,2010,Population mid-year estimates (millions),,41.1
+Argentina,2015,Population mid-year estimates (millions),,43.26
+Argentina,2020,Population mid-year estimates (millions),,45.04
+Argentina,2022,Population mid-year estimates (millions),,45.51
+Brazil,2010,Population mid-year estimates (millions),,196.35
+Brazil,2015,Population mid-year estimates (millions),,205.19
+Brazil,2020,Population mid-year estimates (millions),,213.2
+Brazil,2022,Population mid-year estimates (millions),,215.31
+Canada,2010,Population mid-year estimates (millions),,33.96
+Canada,2015,Population mid-year estimates (millions),,35.73
+Canada,2020,Population mid-year estimates (millions),,37.89
+Canada,2022,Population mid-year estimates (millions),,38.45
+Germany,2010,Population mid-year estimates (millions),,81.33
+Germany,2015,Population mid-year estimates (millions),,82.07
+Germany,2020,Population mid-year estimates (millions),,83.33
+Germany,2022,Population mid-year estimates (millions),,83.37
+India,2010,Population mid-year estimates (millions),,"1,240.61"
+India,2015,Population mid-year estimates (millions),,"1,322.87"
+India,2020,Population mid-year estimates (millions),,"1,396.39"
+India,2022,Population mid-year estimates (millions),,"1,417.17"
+Japan,2010,Population mid-year estimates (millions),,128.11
+Japan,2015,Population mid-year estimates (millions),,127.25
+Japan,2020,Population mid-year estimates (millions),,125.24
+Japan,2022,Population mid-year estimates (millions),,123.95
+Mexico,2010,Population mid-year estimates (millions),,112.53
+Mexico,2015,Population mid-year estimates (millions),,120.15
+Mexico,2020,Population mid-year estimates (millions),,126
+Mexico,2022,Population mid-year estimates (millions),,127.5
+South Africa,2010,Population mid-year estimates (millions),,51.78
+South Africa,2015,Population mid-year estimates (millions),,55.88
+South Africa,2020,Population mid-year estimates (millions),,58.8
+South Africa,2022,Population mid-year estimates (millions),,59.89
+United Kingdom,2010,Population mid-year estimates (millions),,62.76
+United Kingdom,2015,Population mid-year estimates (millions),,65.22
+United Kingdom,2020,Population mid-year estimates (millions),,67.06
+United Kingdom,2022,Population mid-year estimates (millions),,67.51
+United States of America,2010,Population mid-year estimates (millions),,311.18
+United States of America,2015,Population mid-year estimates (millions),,324.61
+United States of America,2020,Population mid-year estimates (millions),,335.94
+United States of America,2022,Population mid-year estimates (millions),,338.29
+Argentina,2005,Rural population (percent growth rate per annum),,-0.6
+Argentina,2010,Rural population (percent growth rate per annum),,-0.7
+Argentina,2015,Rural population (percent growth rate per annum),,-0.4
+Brazil,2005,Rural population (percent growth rate per annum),,-0.5
+Brazil,2010,Rural population (percent growth rate per annum),,-0.8
+Brazil,2015,Rural population (percent growth rate per annum),,-1
+Canada,2005,Rural population (percent growth rate per annum),,0.3
+Canada,2010,Rural population (percent growth rate per annum),,0.3
+Canada,2015,Rural population (percent growth rate per annum),,0.7
+Germany,2005,Rural population (percent growth rate per annum),,-0.8
+Germany,2010,Rural population (percent growth rate per annum),,-1
+Germany,2015,Rural population (percent growth rate per annum),,0
+India,2005,Rural population (percent growth rate per annum),,1.2
+India,2010,Rural population (percent growth rate per annum),,1
+India,2015,Rural population (percent growth rate per annum),,0.7
+Japan,2005,Rural population (percent growth rate per annum),,-8.3
+Japan,2010,Rural population (percent growth rate per annum),,-8.4
+Japan,2015,Rural population (percent growth rate per annum),,-1.4
+Mexico,2005,Rural population (percent growth rate per annum),,0
+Mexico,2010,Rural population (percent growth rate per annum),,0.3
+Mexico,2015,Rural population (percent growth rate per annum),,0
+South Africa,2005,Rural population (percent growth rate per annum),,0
+South Africa,2010,Rural population (percent growth rate per annum),,-0.3
+South Africa,2015,Rural population (percent growth rate per annum),,0
+United Kingdom,2005,Rural population (percent growth rate per annum),,-0.8
+United Kingdom,2010,Rural population (percent growth rate per annum),,-0.5
+United Kingdom,2015,Rural population (percent growth rate per annum),,-0.8
+United States of America,2005,Rural population (percent growth rate per annum),,0.1
+United States of America,2010,Rural population (percent growth rate per annum),,0
+United States of America,2015,Rural population (percent growth rate per annum),,-0.2
+Argentina,2005,Urban population (percent growth rate per annum),,1.3
+Argentina,2010,Urban population (percent growth rate per annum),,1.2
+Argentina,2015,Urban population (percent growth rate per annum),,1.2
+Brazil,2005,Urban population (percent growth rate per annum),,1.7
+Brazil,2010,Urban population (percent growth rate per annum),,1.4
+Brazil,2015,Urban population (percent growth rate per annum),,1.2
+Canada,2005,Urban population (percent growth rate per annum),,1.1
+Canada,2010,Urban population (percent growth rate per annum),,1.3
+Canada,2015,Urban population (percent growth rate per annum),,1.1
+Germany,2005,Urban population (percent growth rate per annum),,0.3
+Germany,2010,Urban population (percent growth rate per annum),,0.1
+Germany,2015,Urban population (percent growth rate per annum),,0.3
+India,2005,Urban population (percent growth rate per annum),,2.8
+India,2010,Urban population (percent growth rate per annum),,2.6
+India,2015,Urban population (percent growth rate per annum),,2.4
+Japan,2005,Urban population (percent growth rate per annum),,1.9
+Japan,2010,Urban population (percent growth rate per annum),,1.1
+Japan,2015,Urban population (percent growth rate per annum),,0
+Mexico,2005,Urban population (percent growth rate per annum),,1.7
+Mexico,2010,Urban population (percent growth rate per annum),,2
+Mexico,2015,Urban population (percent growth rate per annum),,1.8
+South Africa,2005,Urban population (percent growth rate per annum),,2.2
+South Africa,2010,Urban population (percent growth rate per annum),,2
+South Africa,2015,Urban population (percent growth rate per annum),,2.2
+United Kingdom,2005,Urban population (percent growth rate per annum),,0.8
+United Kingdom,2010,Urban population (percent growth rate per annum),,1.3
+United Kingdom,2015,Urban population (percent growth rate per annum),,1
+United States of America,2005,Urban population (percent growth rate per annum),,1.1
+United States of America,2010,Urban population (percent growth rate per annum),,1.1
+United States of America,2015,Urban population (percent growth rate per annum),,0.9

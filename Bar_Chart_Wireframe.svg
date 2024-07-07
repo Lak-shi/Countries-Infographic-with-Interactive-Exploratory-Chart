@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="331.29259"
+       y="152.76269"
+       width="478.53374"
+       height="75.461089"
+       id="rect4" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#d6aae8;fill-opacity:1;stroke-width:0.902514"
+       id="rect1"
+       width="1119.0327"
+       height="796.94269"
+       x="1.8405155"
+       y="-1.8405118" />
+    <rect
+       style="fill:#ab50d0;fill-opacity:1;stroke-width:2.60573"
+       id="rect2"
+       width="797.14191"
+       height="429.66965"
+       x="177.07887"
+       y="290.49066"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:33.6209px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#ab50d0;fill-opacity:1;stroke-width:2.10461"
+       x="360.06839"
+       y="453.56073"
+       id="text2"
+       transform="scale(0.97922583,1.0212149)"><tspan
+         id="tspan2"
+         x="360.06839"
+         y="453.56073"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:78.4488px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#140719;fill-opacity:1;stroke-width:2.10461">Bar Chart</tspan></text>
+    <rect
+       style="fill:#140719;fill-opacity:1;stroke-width:1.46546"
+       id="rect3"
+       width="1119.0327"
+       height="60.736973"
+       x="3.68102"
+       y="182.84598" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#140719;fill-opacity:1;stroke-width:1.06674"
+       x="365.75247"
+       y="244.74226"
+       id="text3"
+       transform="scale(1.0650662,0.93890878)"><tspan
+         id="tspan3"
+         x="365.75247"
+         y="244.74226"
+         style="fill:#f9f9f9;stroke-width:1.06674">Navigation Bar</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text4"
+       style="fill:#f9f9f9;stroke-width:1.0015748;-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-size:37.33333333px;font-weight:bold;fill-opacity:1;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.201px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;fill-opacity:1;stroke-width:2.8223"
+       x="429.61932"
+       y="152.52205"
+       id="text5"
+       transform="scale(0.99006478,1.0100349)"><tspan
+         id="tspan5"
+         x="429.61932"
+         y="152.52205"
+         style="stroke-width:2.8223">Title</tspan></text>
+  </g>
+</svg>

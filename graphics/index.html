@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Interactive Bar Chart</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <link rel="stylesheet" href="../style/style.css">
+</head>
+
+<body>
+    <div class="dashboard">
+        <div class="header">
+            Countries Infographic with Interactive Exploratory Chart
+        </div>
+        <div class="controls">
+            <label for="select-variable">Select Variable:</label>
+            <select class="form-select" id="select-variable">
+                <option value="Capital_city_pop">Capital City Population (thousands)</option>
+                <option value="Population_density">Population Density (people per sq.km)</option>
+                <option value="Population">Population Mid-year Estimates (millions)</option>
+            </select>
+            <label for="sort-order">Sort Order:</label>
+            <select class="form-select" id="sort-order">
+                <option value="ascending">Ascending</option>
+                <option value="descending">Descending</option>
+            </select>
+            <button class="btn" id="filter-top5">Top 5</button>
+            <button class="btn" id="filter-bottom5">Bottom 5</button>
+            <button class="btn" id="reset-button">Reset</button>
+        </div>
+        <div id="chart" class="center">
+        </div>
+        <div class="footer">
+            <a href="https://docs.google.com/presentation/d/18umnKbUErDYba-G_5ebeM_3n00S_cFYbttnque36BsU/edit?usp=sharing">Google Slides</a>
+        </div>
+    </div>
+
+    <script src="../Javascript/script.js"></script>
+</body>
+
+</html>
+
+
+
+
